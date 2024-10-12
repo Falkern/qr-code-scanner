@@ -18,8 +18,8 @@ body {
   justify-content: center; 
   align-items: center; 
   text-align: center;
-  background-color: #fff; 
-  color: #000; 
+  background-color: #ffffff11; 
+  color: #ffffff; 
   border-radius: 8px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
   padding: 30px; 
@@ -27,11 +27,6 @@ body {
   max-width: 400px; 
   transition: transform 0.3s, background-color 0.3s; 
   overflow: hidden; 
-}
-
-.qr-scanner:hover {
-  transform: scale(1.02); 
-  background-color: #f8f8f8; 
 }
 
 input[type="file"] {
